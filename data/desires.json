@@ -1,0 +1,77 @@
+[
+  {
+    "coin": "ADA",
+    "desired": 25000,
+    "have": 0
+  },
+  {
+    "coin": "HOT",
+    "desired": 1000000,
+    "have": 0
+  },
+  {
+    "coin": "FUN",
+    "desired": 100000,
+    "have": 14151
+  },
+  {
+    "coin": "VET",
+    "desired": 50000,
+    "have": 13000
+  },
+  {
+    "coin": "TRX",
+    "desired": 50000,
+    "have": 500
+  },
+  {
+    "coin": "XRP",
+    "desired": 5000,
+    "have": 2500
+  },
+  {
+    "coin": "LRC",
+    "desired": 10000,
+    "have": 1700
+  },
+  {
+    "coin": "ICX",
+    "desired": 5000,
+    "have": 425
+  },
+  {
+    "coin": "AION",
+    "desired": 420,
+    "have": 2500
+  },
+  {
+    "coin": "WAN",
+    "desired": 1000,
+    "have": 225
+  },
+  {
+    "coin": "KMD",
+    "desired": 2000,
+    "have": 210
+  },
+  {
+    "coin": "LSK",
+    "desired": 2000,
+    "have": 160
+  },
+  {
+    "coin": "ARK",
+    "desired": 1000,
+    "have": 155
+  },
+  {
+    "coin": "WTC",
+    "desired": 800,
+    "have": 125
+  },
+  {
+    "coin": "PIVX",
+    "desired": 500,
+    "have": 108
+  }
+]
