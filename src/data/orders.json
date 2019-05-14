@@ -1,0 +1,1610 @@
+{
+  "ANS|BTC": [
+    {
+      "exchange": "BTC-ANS",
+      "type": "LIMIT_BUY",
+      "quantity": "70",
+      "price": "0.0032",
+      "total": "0.224",
+      "closed": "6/21/17 7:57"
+    },
+    {
+      "exchange": "BTC-ANS",
+      "type": "LIMIT_BUY",
+      "quantity": "5.66407882",
+      "price": "0.00255",
+      "total": "0.0144434",
+      "closed": "6/23/17 2:50"
+    },
+    {
+      "exchange": "BTC-ANS",
+      "type": "LIMIT_SELL",
+      "quantity": "70.66407882",
+      "price": "0.00378",
+      "total": "0.26711017",
+      "closed": "6/29/17 23:00"
+    },
+    {
+      "exchange": "BTC-ANS",
+      "type": "LIMIT_SELL",
+      "quantity": "5",
+      "price": "0.00433517",
+      "total": "0.02167585",
+      "closed": "8/6/17 2:12"
+    }
+  ],
+  "SC|BTC": [
+    {
+      "exchange": "BTC-SC",
+      "type": "LIMIT_BUY",
+      "quantity": "420",
+      "price": "0.000007",
+      "total": "0.00294",
+      "closed": "6/21/17 21:03"
+    },
+    {
+      "exchange": "BTC-SC",
+      "type": "LIMIT_BUY",
+      "quantity": "580",
+      "price": "0.0000056",
+      "total": "0.003248",
+      "closed": "6/30/17 18:28"
+    },
+    {
+      "exchange": "BTC-SC",
+      "type": "LIMIT_BUY",
+      "quantity": "1000",
+      "price": "0.0000048",
+      "total": "0.0048",
+      "closed": "7/6/17 7:28"
+    },
+    {
+      "exchange": "BTC-SC",
+      "type": "LIMIT_BUY",
+      "quantity": "3000",
+      "price": "0.000003",
+      "total": "0.009",
+      "closed": "7/10/17 23:25"
+    }
+  ],
+  "NXT|BTC": [
+    {
+      "exchange": "BTC-NXT",
+      "type": "LIMIT_BUY",
+      "quantity": "42",
+      "price": "0.000058",
+      "total": "0.002436",
+      "closed": "7/1/17 15:28"
+    },
+    {
+      "exchange": "BTC-NXT",
+      "type": "LIMIT_BUY",
+      "quantity": "106",
+      "price": "0.000057",
+      "total": "0.006042",
+      "closed": "7/1/17 18:03"
+    },
+    {
+      "exchange": "BTC-NXT",
+      "type": "LIMIT_BUY",
+      "quantity": "452",
+      "price": "0.000057",
+      "total": "0.025764",
+      "closed": "7/1/17 18:03"
+    },
+    {
+      "exchange": "BTC-NXT",
+      "type": "LIMIT_BUY",
+      "quantity": "400",
+      "price": "0.000054",
+      "total": "0.0216",
+      "closed": "7/1/17 20:15"
+    },
+    {
+      "exchange": "BTC-NXT",
+      "type": "LIMIT_BUY",
+      "quantity": "1000",
+      "price": "0.00005",
+      "total": "0.05",
+      "closed": "7/6/17 14:56"
+    },
+    {
+      "exchange": "BTC-NXT",
+      "type": "LIMIT_SELL",
+      "quantity": "982",
+      "price": "0.00002446",
+      "total": "0.0240197",
+      "closed": "9/2/17 2:21"
+    },
+    {
+      "exchange": "BTC-NXT",
+      "type": "LIMIT_SELL",
+      "quantity": "500",
+      "price": "0.000042",
+      "total": "0.021",
+      "closed": "12/30/17 15:09"
+    }
+  ],
+  "ARDR|BTC": [
+    {
+      "exchange": "BTC-ARDR",
+      "type": "LIMIT_BUY",
+      "quantity": "250",
+      "price": "0.000078",
+      "total": "0.0195",
+      "closed": "7/1/17 18:55"
+    },
+    {
+      "exchange": "BTC-ARDR",
+      "type": "LIMIT_BUY",
+      "quantity": "250",
+      "price": "0.000077",
+      "total": "0.01925",
+      "closed": "7/1/17 19:30"
+    },
+    {
+      "exchange": "BTC-ARDR",
+      "type": "LIMIT_BUY",
+      "quantity": "500",
+      "price": "0.000075",
+      "total": "0.0375",
+      "closed": "7/2/17 0:39"
+    },
+    {
+      "exchange": "BTC-ARDR",
+      "type": "LIMIT_BUY",
+      "quantity": "1000",
+      "price": "0.000067",
+      "total": "0.067",
+      "closed": "7/6/17 9:29"
+    }
+  ],
+  "LMC|BTC": [
+    {
+      "exchange": "BTC-LMC",
+      "type": "LIMIT_BUY",
+      "quantity": "250",
+      "price": "0.000023",
+      "total": "0.00575",
+      "closed": "7/1/17 22:10"
+    },
+    {
+      "exchange": "BTC-LMC",
+      "type": "LIMIT_BUY",
+      "quantity": "750",
+      "price": "0.00002",
+      "total": "0.015",
+      "closed": "7/7/17 0:31"
+    },
+    {
+      "exchange": "BTC-LMC",
+      "type": "LIMIT_SELL",
+      "quantity": "1000",
+      "price": "0.000025",
+      "total": "0.025",
+      "closed": "8/15/17 4:03"
+    }
+  ],
+  "GNT|BTC": [
+    {
+      "exchange": "BTC-GNT",
+      "type": "LIMIT_BUY",
+      "quantity": "1000",
+      "price": "0.000093",
+      "total": "0.093",
+      "closed": "7/16/17 13:08"
+    },
+    {
+      "exchange": "BTC-GNT",
+      "type": "LIMIT_SELL",
+      "quantity": "250",
+      "price": "0.00009355",
+      "total": "0.0233875",
+      "closed": "8/12/17 0:02"
+    },
+    {
+      "exchange": "BTC-GNT",
+      "type": "LIMIT_BUY",
+      "quantity": "1131.23069",
+      "price": "0.00008124",
+      "total": "0.09190118",
+      "closed": "8/12/17 22:31"
+    },
+    {
+      "exchange": "BTC-GNT",
+      "type": "LIMIT_SELL",
+      "quantity": "881.2306896",
+      "price": "0.0000943",
+      "total": "0.08310005",
+      "closed": "9/6/17 22:49"
+    },
+    {
+      "exchange": "BTC-GNT",
+      "type": "LIMIT_SELL",
+      "quantity": "1000",
+      "price": "0.0000945",
+      "total": "0.09449999",
+      "closed": "9/6/17 22:51"
+    }
+  ],
+  "BCC|BTC": [
+    {
+      "exchange": "BTC-BCC",
+      "type": "LIMIT_SELL",
+      "quantity": "0.15347405",
+      "price": "0.07400001",
+      "total": "0.01135708",
+      "closed": "8/5/17 8:42"
+    }
+  ],
+  "USDT|BTC": [
+    {
+      "exchange": "USDT-BTC",
+      "type": "LIMIT_SELL",
+      "quantity": "0.1",
+      "price": "3179.999",
+      "total": "317.9999",
+      "closed": "8/5/17 9:07"
+    },
+    {
+      "exchange": "USDT-BTC",
+      "type": "LIMIT_SELL",
+      "quantity": "0.00000058",
+      "price": "3840",
+      "total": "0.0022272",
+      "closed": "8/12/17 22:51"
+    }
+  ],
+  "OMG|BTC": [
+    {
+      "exchange": "BTC-OMG",
+      "type": "LIMIT_BUY",
+      "quantity": "10",
+      "price": "0.0008712",
+      "total": "0.008712",
+      "closed": "8/7/17 18:30"
+    }
+  ],
+  "ARK|BTC": [
+    {
+      "exchange": "BTC-ARK",
+      "type": "LIMIT_BUY",
+      "quantity": "10",
+      "price": "0.00026",
+      "total": "0.0026",
+      "closed": "8/7/17 19:30"
+    },
+    {
+      "exchange": "BTC-ARK",
+      "type": "LIMIT_SELL",
+      "quantity": "10",
+      "price": "0.000265",
+      "total": "0.00265",
+      "closed": "8/14/17 8:15"
+    },
+    {
+      "exchange": "BTC-ARK",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.000536",
+      "total": "0.0536",
+      "closed": "8/29/17 16:18"
+    },
+    {
+      "exchange": "BTC-ARK",
+      "type": "LIMIT_BUY",
+      "quantity": "50",
+      "price": "0.000677",
+      "total": "0.03385",
+      "closed": "10/1/17 21:57"
+    },
+    {
+      "exchange": "BTC-ARK",
+      "type": "LIMIT_BUY",
+      "quantity": "5.1",
+      "price": "0.00028",
+      "total": "0.001428",
+      "closed": "6/10/18 18:23"
+    }
+  ],
+  "ENRG|BTC": [
+    {
+      "exchange": "BTC-ENRG",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.000029",
+      "total": "0.002866",
+      "closed": "8/12/17 2:02"
+    },
+    {
+      "exchange": "BTC-ENRG",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.000034",
+      "total": "0.0034",
+      "closed": "8/12/17 2:04"
+    },
+    {
+      "exchange": "BTC-ENRG",
+      "type": "LIMIT_SELL",
+      "quantity": "200",
+      "price": "0.000024",
+      "total": "0.0048",
+      "closed": "8/21/17 16:58"
+    }
+  ],
+  "SNT|BTC": [
+    {
+      "exchange": "BTC-SNT",
+      "type": "LIMIT_BUY",
+      "quantity": "1000",
+      "price": "0.0000142",
+      "total": "0.0142",
+      "closed": "8/17/17 15:38"
+    },
+    {
+      "exchange": "BTC-SNT",
+      "type": "LIMIT_SELL",
+      "quantity": "1000",
+      "price": "0.00001435",
+      "total": "0.0145",
+      "closed": "8/17/17 17:29"
+    }
+  ],
+  "NEO|USDT": [
+    {
+      "exchange": "USDT-NEO",
+      "type": "LIMIT_BUY",
+      "quantity": "7.54750624",
+      "price": "41.923",
+      "total": "316.4141041",
+      "closed": "8/17/17 19:01"
+    },
+    {
+      "exchange": "USDT-NEO",
+      "type": "LIMIT_BUY",
+      "quantity": "0.0000478",
+      "price": "41.37",
+      "total": "0.00197748",
+      "closed": "8/17/17 19:03"
+    }
+  ],
+  "STRAT|BTC": [
+    {
+      "exchange": "BTC-STRAT",
+      "type": "LIMIT_BUY",
+      "quantity": "18.99973094",
+      "price": "0.00146",
+      "total": "0.0277396",
+      "closed": "8/17/17 20:34"
+    },
+    {
+      "exchange": "BTC-STRAT",
+      "type": "LIMIT_SELL",
+      "quantity": "18.99973094",
+      "price": "0.00143",
+      "total": "0.02716961",
+      "closed": "8/17/17 21:05"
+    }
+  ],
+  "PAY|BTC": [
+    {
+      "exchange": "BTC-PAY",
+      "type": "LIMIT_BUY",
+      "quantity": "19.13953685",
+      "price": "0.00089",
+      "total": "0.01703418",
+      "closed": "8/18/17 8:55"
+    },
+    {
+      "exchange": "BTC-PAY",
+      "type": "LIMIT_SELL",
+      "quantity": "19.13953685",
+      "price": "0.00105",
+      "total": "0.02009651",
+      "closed": "8/29/17 5:41"
+    }
+  ],
+  "XEL|BTC": [
+    {
+      "exchange": "BTC-XEL",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.0001",
+      "total": "0.01",
+      "closed": "8/18/17 8:58"
+    },
+    {
+      "exchange": "BTC-XEL",
+      "type": "LIMIT_SELL",
+      "quantity": "100",
+      "price": "0.000145",
+      "total": "0.0145",
+      "closed": "9/12/17 22:47"
+    }
+  ],
+  "LTC|BTC": [
+    {
+      "exchange": "BTC-LTC",
+      "type": "LIMIT_SELL",
+      "quantity": "12",
+      "price": "0.01100725",
+      "total": "0.13208699",
+      "closed": "8/19/17 0:48"
+    },
+    {
+      "exchange": "BTC-LTC",
+      "type": "LIMIT_SELL",
+      "quantity": "10",
+      "price": "0.0125",
+      "total": "0.125",
+      "closed": "8/22/17 5:07"
+    },
+    {
+      "exchange": "BTC-LTC",
+      "type": "LIMIT_SELL",
+      "quantity": "10.15578681",
+      "price": "0.01448989",
+      "total": "0.14715622",
+      "closed": "8/23/17 20:36"
+    },
+    {
+      "exchange": "BTC-LTC",
+      "type": "LIMIT_SELL",
+      "quantity": "10",
+      "price": "0.0149",
+      "total": "0.149",
+      "closed": "8/23/17 20:38"
+    },
+    {
+      "exchange": "BTC-LTC",
+      "type": "LIMIT_SELL",
+      "quantity": "5",
+      "price": "0.0162",
+      "total": "0.081",
+      "closed": "8/23/17 20:42"
+    },
+    {
+      "exchange": "BTC-LTC",
+      "type": "LIMIT_SELL",
+      "quantity": "5",
+      "price": "0.0155",
+      "total": "0.0775",
+      "closed": "8/23/17 21:03"
+    }
+  ],
+  "MTL|BTC": [
+    {
+      "exchange": "BTC-MTL",
+      "type": "LIMIT_BUY",
+      "quantity": "46.95852783",
+      "price": "0.0027988",
+      "total": "0.13142752",
+      "closed": "8/19/17 0:53"
+    },
+    {
+      "exchange": "BTC-MTL",
+      "type": "LIMIT_SELL",
+      "quantity": "46.95852783",
+      "price": "0.00283",
+      "total": "0.13289261",
+      "closed": "8/19/17 0:59"
+    },
+    {
+      "exchange": "BTC-MTL",
+      "type": "LIMIT_BUY",
+      "quantity": "45.59649892",
+      "price": "0.0029",
+      "total": "0.13222984",
+      "closed": "8/19/17 1:19"
+    },
+    {
+      "exchange": "BTC-MTL",
+      "type": "LIMIT_SELL",
+      "quantity": "45.59649892",
+      "price": "0.00264",
+      "total": "0.12037475",
+      "closed": "8/19/17 1:47"
+    }
+  ],
+  "GEO|BTC": [
+    {
+      "exchange": "BTC-GEO",
+      "type": "LIMIT_BUY",
+      "quantity": "255.295578",
+      "price": "0.00046916",
+      "total": "0.11977447",
+      "closed": "8/20/17 17:54"
+    },
+    {
+      "exchange": "BTC-GEO",
+      "type": "LIMIT_SELL",
+      "quantity": "255.295578",
+      "price": "0.0005802",
+      "total": "0.14812248",
+      "closed": "8/21/17 19:34"
+    },
+    {
+      "exchange": "BTC-GEO",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.00052",
+      "total": "0.05199999",
+      "closed": "8/23/17 18:24"
+    },
+    {
+      "exchange": "BTC-GEO",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.0005",
+      "total": "0.05",
+      "closed": "8/23/17 19:45"
+    },
+    {
+      "exchange": "BTC-GEO",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.00048006",
+      "total": "0.048006",
+      "closed": "8/23/17 19:57"
+    },
+    {
+      "exchange": "BTC-GEO",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.00046",
+      "total": "0.04599999",
+      "closed": "8/23/17 20:24"
+    },
+    {
+      "exchange": "BTC-GEO",
+      "type": "LIMIT_SELL",
+      "quantity": "200",
+      "price": "0.000485",
+      "total": "0.09699999",
+      "closed": "8/24/17 9:07"
+    },
+    {
+      "exchange": "BTC-GEO",
+      "type": "LIMIT_SELL",
+      "quantity": "200",
+      "price": "0.000485",
+      "total": "0.09699999",
+      "closed": "8/24/17 9:09"
+    }
+  ],
+  "XRP|BTC": [
+    {
+      "exchange": "BTC-XRP",
+      "type": "LIMIT_BUY",
+      "quantity": "1500",
+      "price": "0.00007171",
+      "total": "0.10756499",
+      "closed": "8/23/17 7:44"
+    },
+    {
+      "exchange": "BTC-XRP",
+      "type": "LIMIT_SELL",
+      "quantity": "1500",
+      "price": "0.00007",
+      "total": "0.10575",
+      "closed": "8/23/17 8:10"
+    },
+    {
+      "exchange": "BTC-XRP",
+      "type": "LIMIT_BUY",
+      "quantity": "3534.895871",
+      "price": "0.00004801",
+      "total": "0.16971035",
+      "closed": "10/16/17 17:55"
+    },
+    {
+      "exchange": "XRPBTC",
+      "type": "SELL",
+      "quantity": "200",
+      "price": "0.00008515",
+      "total": "0.01703000",
+      "closed": "2018-11-16 07:33:08"
+    },
+    {
+      "exchange": "XRPBTC",
+      "type": "SELL",
+      "quantity": "200",
+      "price": "0.00008515",
+      "total": "0.01703000",
+      "closed": "2018-11-16 23:05:18"
+    },
+    {
+      "exchange": "XRPBTC",
+      "type": "SELL",
+      "quantity": "100",
+      "price": "0.0000855",
+      "total": "0.00855000",
+      "closed": "2018-11-17 08:38:25"
+    },
+    {
+      "exchange": "XRPBTC",
+      "type": "SELL",
+      "quantity": "400",
+      "price": "0.000086",
+      "total": "0.03440000",
+      "closed": "2018-11-17 12:12:50"
+    },
+    {
+      "exchange": "XRPBTC",
+      "type": "SELL",
+      "quantity": "100",
+      "price": "0.000096",
+      "total": "0.00960000",
+      "closed": "2018-11-19 15:51:26"
+    }
+  ],
+  "FUN|BTC": [
+    {
+      "exchange": "BTC-FUN",
+      "type": "LIMIT_BUY",
+      "quantity": "2000",
+      "price": "0.0000056",
+      "total": "0.0112",
+      "closed": "8/25/17 3:41"
+    },
+    {
+      "exchange": "BTC-FUN",
+      "type": "LIMIT_BUY",
+      "quantity": "2000",
+      "price": "0.0000055",
+      "total": "0.011",
+      "closed": "8/25/17 3:42"
+    },
+    {
+      "exchange": "BTC-FUN",
+      "type": "LIMIT_BUY",
+      "quantity": "6000",
+      "price": "0.00000538",
+      "total": "0.03228",
+      "closed": "9/13/17 7:18"
+    }
+  ],
+  "LSK|BTC": [
+    {
+      "exchange": "BTC-LSK",
+      "type": "LIMIT_BUY",
+      "quantity": "50",
+      "price": "0.00122",
+      "total": "0.061",
+      "closed": "8/30/17 7:27"
+    },
+    {
+      "exchange": "BTC-LSK",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.00122",
+      "total": "0.122",
+      "closed": "10/2/17 20:06"
+    }
+  ],
+  "NEO|BTC": [
+    {
+      "exchange": "BTC-NEO",
+      "type": "LIMIT_BUY",
+      "quantity": "13",
+      "price": "0.00486",
+      "total": "0.06318",
+      "closed": "9/6/17 9:26"
+    },
+    {
+      "exchange": "BTC-NEO",
+      "type": "LIMIT_BUY",
+      "quantity": "10",
+      "price": "0.005",
+      "total": "0.05",
+      "closed": "9/12/17 18:09"
+    },
+    {
+      "exchange": "BTC-NEO",
+      "type": "LIMIT_BUY",
+      "quantity": "20",
+      "price": "0.0046",
+      "total": "0.092",
+      "closed": "9/14/17 12:59"
+    }
+  ],
+  "OK|BTC": [
+    {
+      "exchange": "BTC-OK",
+      "type": "LIMIT_BUY",
+      "quantity": "50",
+      "price": "0.000065",
+      "total": "0.00325",
+      "closed": "9/6/17 17:54"
+    },
+    {
+      "exchange": "BTC-OK",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.000057",
+      "total": "0.0057",
+      "closed": "9/8/17 13:52"
+    },
+    {
+      "exchange": "BTC-OK",
+      "type": "LIMIT_SELL",
+      "quantity": "150",
+      "price": "0.00002334",
+      "total": "0.00350099",
+      "closed": "5/2/18 7:35"
+    }
+  ],
+  "KMD|BTC": [
+    {
+      "exchange": "BTC-KMD",
+      "type": "LIMIT_BUY",
+      "quantity": "10",
+      "price": "0.000642",
+      "total": "0.00642",
+      "closed": "9/7/17 10:50"
+    },
+    {
+      "exchange": "BTC-KMD",
+      "type": "LIMIT_BUY",
+      "quantity": "40",
+      "price": "0.000651",
+      "total": "0.02604",
+      "closed": "9/9/17 5:56"
+    },
+    {
+      "exchange": "BTC-KMD",
+      "type": "LIMIT_BUY",
+      "quantity": "50",
+      "price": "0.00046",
+      "total": "0.023",
+      "closed": "9/12/17 18:13"
+    },
+    {
+      "exchange": "BTC-KMD",
+      "type": "LIMIT_BUY",
+      "quantity": "60.94929487",
+      "price": "0.0004",
+      "total": "0.02437971",
+      "closed": "5/6/18 3:30"
+    },
+    {
+      "exchange": "BTC-KMD",
+      "type": "LIMIT_BUY",
+      "quantity": "40.01",
+      "price": "0.00036",
+      "total": "0.0144036",
+      "closed": "5/9/18 4:39"
+    },
+    {
+      "exchange": "BTC-KMD",
+      "type": "LIMIT_BUY",
+      "quantity": "9.04270513",
+      "price": "0.00034",
+      "total": "0.00307451",
+      "closed": "5/11/18 6:58"
+    }
+  ],
+  "EXP|BTC": [
+    {
+      "exchange": "BTC-EXP",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.0007",
+      "total": "0.07",
+      "closed": "9/8/17 14:16"
+    },
+    {
+      "exchange": "BTC-EXP",
+      "type": "LIMIT_SELL",
+      "quantity": "100",
+      "price": "0.000235",
+      "total": "0.0235",
+      "closed": "5/2/18 18:31"
+    }
+  ],
+  "XLM|BTC": [
+    {
+      "exchange": "BTC-XLM",
+      "type": "LIMIT_BUY",
+      "quantity": "2000",
+      "price": "0.00000397",
+      "total": "0.00794",
+      "closed": "9/12/17 23:18"
+    },
+    {
+      "exchange": "BTC-XLM",
+      "type": "LIMIT_BUY",
+      "quantity": "1000",
+      "price": "0.00000384",
+      "total": "0.00384",
+      "closed": "9/13/17 8:42"
+    },
+    {
+      "exchange": "BTC-XLM",
+      "type": "LIMIT_SELL",
+      "quantity": "3021.84322",
+      "price": "0.00000415",
+      "total": "0.01257086",
+      "closed": "10/6/17 17:56"
+    },
+    {
+      "exchange": "BTC-XLM",
+      "type": "LIMIT_BUY",
+      "quantity": "10000",
+      "price": "0.0000093",
+      "total": "0.09299999",
+      "closed": "10/16/17 8:59"
+    },
+    {
+      "exchange": "BTC-XLM",
+      "type": "LIMIT_SELL",
+      "quantity": "10000",
+      "price": "0.000009",
+      "total": "0.0908",
+      "closed": "10/16/17 9:04"
+    }
+  ],
+  "NAV|BTC": [
+    {
+      "exchange": "BTC-NAV",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.000255",
+      "total": "0.0255",
+      "closed": "9/13/17 6:13"
+    }
+  ],
+  "PIVX|BTC": [
+    {
+      "exchange": "BTC-PIVX",
+      "type": "LIMIT_BUY",
+      "quantity": "100",
+      "price": "0.00074",
+      "total": "0.074",
+      "closed": "9/13/17 7:58"
+    },
+    {
+      "exchange": "BTC-PIVX",
+      "type": "LIMIT_BUY",
+      "quantity": "8.02",
+      "price": "0.00055",
+      "total": "0.004411",
+      "closed": "5/11/18 6:55"
+    }
+  ],
+  "TRIG|BTC": [
+    {
+      "exchange": "BTC-TRIG",
+      "type": "LIMIT_BUY",
+      "quantity": "420",
+      "price": "0.00033299",
+      "total": "0.13985579",
+      "closed": "9/20/17 7:31"
+    },
+    {
+      "exchange": "BTC-TRIG",
+      "type": "LIMIT_SELL",
+      "quantity": "420",
+      "price": "0.0003025",
+      "total": "0.12704996",
+      "closed": "9/20/17 14:00"
+    }
+  ],
+  "ADA|BTC": [
+    {
+      "exchange": "BTC-ADA",
+      "type": "LIMIT_BUY",
+      "quantity": "15183.17256",
+      "price": "0.00000523",
+      "total": "0.07940799",
+      "closed": "10/2/17 9:13"
+    },
+    {
+      "exchange": "BTC-ADA",
+      "type": "LIMIT_SELL",
+      "quantity": "15183.17256",
+      "price": "0.0000042",
+      "total": "0.06376932",
+      "closed": "10/7/17 2:32"
+    }
+  ],
+  "RISE|BTC": [
+    {
+      "exchange": "BTC-RISE",
+      "type": "LIMIT_BUY",
+      "quantity": "1133.522727",
+      "price": "0.000044",
+      "total": "0.04987499",
+      "closed": "10/13/17 10:21"
+    },
+    {
+      "exchange": "BTC-RISE",
+      "type": "LIMIT_SELL",
+      "quantity": "433.5227273",
+      "price": "0.00005145",
+      "total": "0.02230474",
+      "closed": "10/14/17 1:56"
+    },
+    {
+      "exchange": "BTC-RISE",
+      "type": "LIMIT_SELL",
+      "quantity": "433.5227273",
+      "price": "0.0000489",
+      "total": "0.02119926",
+      "closed": "10/14/17 2:22"
+    },
+    {
+      "exchange": "BTC-RISE",
+      "type": "LIMIT_SELL",
+      "quantity": "266.4772727",
+      "price": "0.000049",
+      "total": "0.01305738",
+      "closed": "10/14/17 3:32"
+    }
+  ],
+  "BNB|ETH": [
+    {
+      "exchange": "BNBETH",
+      "type": "BUY",
+      "quantity": "80",
+      "price": "0.00657069",
+      "total": "0.52565520",
+      "closed": "2017-08-19 07:12:03"
+    }
+  ],
+  "OAX|ETH": [
+    {
+      "exchange": "OAXETH",
+      "type": "BUY",
+      "quantity": "93",
+      "price": "0.005051",
+      "total": "0.46974300",
+      "closed": "2017-08-21 04:10:15"
+    },
+    {
+      "exchange": "OAXETH",
+      "type": "SELL",
+      "quantity": "52.42",
+      "price": "0.002796",
+      "total": "0.14656632",
+      "closed": "2017-08-29 03:49:48"
+    },
+    {
+      "exchange": "OAXETH",
+      "type": "SELL",
+      "quantity": "40.58",
+      "price": "0.002796",
+      "total": "0.11346168",
+      "closed": "2017-08-29 03:50:48"
+    }
+  ],
+  "MCO|ETH": [
+    {
+      "exchange": "MCOETH",
+      "type": "BUY",
+      "quantity": "16",
+      "price": "0.038003",
+      "total": "0.60804800",
+      "closed": "2017-08-23 07:02:47"
+    },
+    {
+      "exchange": "MCOETH",
+      "type": "BUY",
+      "quantity": "36",
+      "price": "0.038",
+      "total": "1.36800000",
+      "closed": "2017-08-23 07:03:30"
+    },
+    {
+      "exchange": "MCOETH",
+      "type": "SELL",
+      "quantity": "9.2",
+      "price": "0.03608",
+      "total": "0.33193600",
+      "closed": "2017-08-31 15:17:55"
+    },
+    {
+      "exchange": "MCOETH",
+      "type": "SELL",
+      "quantity": "2.4",
+      "price": "0.036088",
+      "total": "0.08661120",
+      "closed": "2017-08-31 15:17:55"
+    },
+    {
+      "exchange": "MCOETH",
+      "type": "SELL",
+      "quantity": "2.48",
+      "price": "0.03608",
+      "total": "0.08947840",
+      "closed": "2017-08-31 15:18:00"
+    },
+    {
+      "exchange": "MCOETH",
+      "type": "SELL",
+      "quantity": "4",
+      "price": "0.03608",
+      "total": "0.14432000",
+      "closed": "2017-08-31 15:24:37"
+    },
+    {
+      "exchange": "MCOETH",
+      "type": "SELL",
+      "quantity": "7.31",
+      "price": "0.033305",
+      "total": "0.24345955",
+      "closed": "2017-08-31 15:58:49"
+    },
+    {
+      "exchange": "MCOETH",
+      "type": "SELL",
+      "quantity": "2.71",
+      "price": "0.03331",
+      "total": "0.09027010",
+      "closed": "2017-08-31 15:58:49"
+    },
+    {
+      "exchange": "MCOETH",
+      "type": "SELL",
+      "quantity": "23.9",
+      "price": "0.033316",
+      "total": "0.79625240",
+      "closed": "2017-08-31 15:58:49"
+    }
+  ],
+  "LRC|ETH": [
+    {
+      "exchange": "LRCETH",
+      "type": "BUY",
+      "quantity": "7670",
+      "price": "0.00027",
+      "total": "2.07090000",
+      "closed": "2017-09-03 09:03:10"
+    },
+    {
+      "exchange": "LRCETH",
+      "type": "SELL",
+      "quantity": "1796",
+      "price": "0.0004288",
+      "total": "0.77012480",
+      "closed": "2017-11-15 20:31:04"
+    },
+    {
+      "exchange": "LRCETH",
+      "type": "SELL",
+      "quantity": "199",
+      "price": "0.0004288",
+      "total": "0.08533120",
+      "closed": "2017-11-15 20:31:06"
+    },
+    {
+      "exchange": "LRCETH",
+      "type": "SELL",
+      "quantity": "1810",
+      "price": "0.0004288",
+      "total": "0.77612800",
+      "closed": "2017-11-15 20:31:08"
+    },
+    {
+      "exchange": "LRCETH",
+      "type": "SELL",
+      "quantity": "1962",
+      "price": "0.0004288",
+      "total": "0.84130560",
+      "closed": "2017-11-15 20:31:33"
+    },
+    {
+      "exchange": "LRCETH",
+      "type": "SELL",
+      "quantity": "423",
+      "price": "0.0007",
+      "total": "0.29610000",
+      "closed": "2018-06-24 01:45:06"
+    },
+    {
+      "exchange": "LRCETH",
+      "type": "BUY",
+      "quantity": "200",
+      "price": "0.00036",
+      "total": "0.07200000",
+      "closed": "2018-11-19 09:59:19"
+    }
+  ],
+  "WTC|ETH": [
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "4.66",
+      "price": "0.016102",
+      "total": "0.07503532",
+      "closed": "2017-09-28 07:41:56"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "5",
+      "price": "0.016102",
+      "total": "0.08051000",
+      "closed": "2017-09-28 07:41:57"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "0.34",
+      "price": "0.016102",
+      "total": "0.00547468",
+      "closed": "2017-09-28 07:41:58"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "SELL",
+      "quantity": "10",
+      "price": "0.016587",
+      "total": "0.16587000",
+      "closed": "2017-09-29 03:33:57"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "10",
+      "price": "0.0261",
+      "total": "0.26100000",
+      "closed": "2017-10-02 03:43:00"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "3.18",
+      "price": "0.0258",
+      "total": "0.08204400",
+      "closed": "2017-10-02 03:48:14"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "16.82",
+      "price": "0.0258",
+      "total": "0.43395600",
+      "closed": "2017-10-02 03:48:58"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "10.6",
+      "price": "0.025258",
+      "total": "0.26773480",
+      "closed": "2017-10-04 08:04:11"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "5",
+      "price": "0.014456",
+      "total": "0.07228000",
+      "closed": "2017-12-25 22:46:41"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "5",
+      "price": "0.013542",
+      "total": "0.06771000",
+      "closed": "2017-12-26 05:15:24"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "50",
+      "price": "0.0127",
+      "total": "0.63500000",
+      "closed": "2018-01-02 01:58:29"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "10.4",
+      "price": "0.014",
+      "total": "0.14560000",
+      "closed": "2018-06-24 20:46:37"
+    },
+    {
+      "exchange": "WTCETH",
+      "type": "BUY",
+      "quantity": "10",
+      "price": "0.0135",
+      "total": "0.13500000",
+      "closed": "2018-06-25 01:11:06"
+    }
+  ],
+  "LINK|ETH": [
+    {
+      "exchange": "LINKETH",
+      "type": "BUY",
+      "quantity": "300",
+      "price": "0.00132",
+      "total": "0.39600000",
+      "closed": "2017-10-01 19:03:28"
+    },
+    {
+      "exchange": "LINKETH",
+      "type": "BUY",
+      "quantity": "250",
+      "price": "0.001065",
+      "total": "0.26625000",
+      "closed": "2017-10-03 08:04:00"
+    },
+    {
+      "exchange": "LINKETH",
+      "type": "SELL",
+      "quantity": "240",
+      "price": "0.00042",
+      "total": "0.10080000",
+      "closed": "2018-06-23 22:11:03"
+    },
+    {
+      "exchange": "LINKETH",
+      "type": "SELL",
+      "quantity": "140",
+      "price": "0.00083",
+      "total": "0.11620000",
+      "closed": "2018-08-10 05:33:11"
+    },
+    {
+      "exchange": "LINKETH",
+      "type": "SELL",
+      "quantity": "6",
+      "price": "0.00087",
+      "total": "0.00522000",
+      "closed": "2018-08-12 13:32:18"
+    },
+    {
+      "exchange": "LINKETH",
+      "type": "SELL",
+      "quantity": "77",
+      "price": "0.00087",
+      "total": "0.06699000",
+      "closed": "2018-08-12 13:32:30"
+    },
+    {
+      "exchange": "LINKETH",
+      "type": "SELL",
+      "quantity": "12",
+      "price": "0.00087",
+      "total": "0.01044000",
+      "closed": "2018-08-12 13:33:00"
+    },
+    {
+      "exchange": "LINKETH",
+      "type": "SELL",
+      "quantity": "75",
+      "price": "0.00087",
+      "total": "0.06525000",
+      "closed": "2018-08-12 13:33:28"
+    }
+  ],
+  "CTR|ETH": [
+    {
+      "exchange": "CTRETH",
+      "type": "BUY",
+      "quantity": "75",
+      "price": "0.003971",
+      "total": "0.29782500",
+      "closed": "2017-10-01 20:23:06"
+    },
+    {
+      "exchange": "CTRETH",
+      "type": "BUY",
+      "quantity": "109",
+      "price": "0.002",
+      "total": "0.21800000",
+      "closed": "2018-01-10 03:29:15"
+    },
+    {
+      "exchange": "CTRETH",
+      "type": "BUY",
+      "quantity": "16",
+      "price": "0.0017",
+      "total": "0.02720000",
+      "closed": "2018-01-16 02:46:28"
+    },
+    {
+      "exchange": "CTRETH",
+      "type": "SELL",
+      "quantity": "56",
+      "price": "0.0002281",
+      "total": "0.01277360",
+      "closed": "2018-04-06 14:19:10"
+    },
+    {
+      "exchange": "CTRETH",
+      "type": "SELL",
+      "quantity": "144",
+      "price": "0.0002281",
+      "total": "0.03284640",
+      "closed": "2018-04-06 14:19:10"
+    }
+  ],
+  "FUN|ETH": [
+    {
+      "exchange": "FUNETH",
+      "type": "BUY",
+      "quantity": "4200",
+      "price": "0.00005225",
+      "total": "0.21945000",
+      "closed": "2017-11-08 20:04:28"
+    }
+  ],
+  "REQ|ETH": [
+    {
+      "exchange": "REQETH",
+      "type": "BUY",
+      "quantity": "100",
+      "price": "0.000417",
+      "total": "0.04170000",
+      "closed": "2017-12-25 19:14:21"
+    },
+    {
+      "exchange": "REQETH",
+      "type": "BUY",
+      "quantity": "320",
+      "price": "0.00041",
+      "total": "0.13120000",
+      "closed": "2017-12-26 14:51:30"
+    }
+  ],
+  "ICX|ETH": [
+    {
+      "exchange": "ICXETH",
+      "type": "BUY",
+      "quantity": "23.69",
+      "price": "0.0069",
+      "total": "0.16346100",
+      "closed": "2018-01-05 17:52:40"
+    },
+    {
+      "exchange": "ICXETH",
+      "type": "BUY",
+      "quantity": "10",
+      "price": "0.0068",
+      "total": "0.06800000",
+      "closed": "2018-01-05 18:21:45"
+    },
+    {
+      "exchange": "ICXETH",
+      "type": "BUY",
+      "quantity": "167",
+      "price": "0.0072",
+      "total": "1.20240000",
+      "closed": "2018-01-11 03:52:33"
+    },
+    {
+      "exchange": "ICXETH",
+      "type": "BUY",
+      "quantity": "75",
+      "price": "0.0068",
+      "total": "0.51000000",
+      "closed": "2018-01-11 03:55:48"
+    },
+    {
+      "exchange": "ICXETH",
+      "type": "BUY",
+      "quantity": "150",
+      "price": "0.0035",
+      "total": "0.52500000",
+      "closed": "2018-03-17 14:36:03"
+    }
+  ],
+  "AION|ETH": [
+    {
+      "exchange": "AIONETH",
+      "type": "BUY",
+      "quantity": "42",
+      "price": "0.0078",
+      "total": "0.32760000",
+      "closed": "2018-01-08 19:52:04"
+    },
+    {
+      "exchange": "AIONETH",
+      "type": "BUY",
+      "quantity": "42",
+      "price": "0.007",
+      "total": "0.29400000",
+      "closed": "2018-01-10 03:54:16"
+    },
+    {
+      "exchange": "AIONETH",
+      "type": "BUY",
+      "quantity": "16",
+      "price": "0.006",
+      "total": "0.09600000",
+      "closed": "2018-01-12 09:13:42"
+    },
+    {
+      "exchange": "AIONETH",
+      "type": "BUY",
+      "quantity": "200",
+      "price": "0.004",
+      "total": "0.80000000",
+      "closed": "2018-05-10 00:02:41"
+    },
+    {
+      "exchange": "AIONETH",
+      "type": "BUY",
+      "quantity": "50",
+      "price": "0.0033",
+      "total": "0.16500000",
+      "closed": "2018-06-09 09:34:50"
+    },
+    {
+      "exchange": "AIONETH",
+      "type": "BUY",
+      "quantity": "50",
+      "price": "0.002",
+      "total": "0.10000000",
+      "closed": "2018-08-30 19:46:38"
+    },
+    {
+      "exchange": "AIONETH",
+      "type": "BUY",
+      "quantity": "20",
+      "price": "0.0018",
+      "total": "0.03600000",
+      "closed": "2018-11-06 21:47:44"
+    }
+  ],
+  "WAN|ETH": [
+    {
+      "exchange": "WANETH",
+      "type": "BUY",
+      "quantity": "100",
+      "price": "0.01",
+      "total": "1.00000000",
+      "closed": "2018-05-09 00:47:47"
+    },
+    {
+      "exchange": "WANETH",
+      "type": "BUY",
+      "quantity": "20",
+      "price": "0.0093",
+      "total": "0.18600000",
+      "closed": "2018-05-15 16:53:32"
+    },
+    {
+      "exchange": "WANETH",
+      "type": "BUY",
+      "quantity": "50",
+      "price": "0.00705",
+      "total": "0.35250000",
+      "closed": "2018-06-08 08:57:05"
+    },
+    {
+      "exchange": "WANETH",
+      "type": "BUY",
+      "quantity": "25",
+      "price": "0.006",
+      "total": "0.15000000",
+      "closed": "2018-06-14 14:10:11"
+    },
+    {
+      "exchange": "WANETH",
+      "type": "BUY",
+      "quantity": "5",
+      "price": "0.006",
+      "total": "0.03000000",
+      "closed": "2018-06-15 08:41:09"
+    },
+    {
+      "exchange": "WANETH",
+      "type": "BUY",
+      "quantity": "25",
+      "price": "0.0048",
+      "total": "0.12000000",
+      "closed": "2018-06-27 00:36:07"
+    }
+  ],
+  "VEN|ETH": [
+    {
+      "exchange": "VENETH",
+      "type": "BUY",
+      "quantity": "34",
+      "price": "0.0058",
+      "total": "0.19720000",
+      "closed": "2018-06-14 18:56:42"
+    },
+    {
+      "exchange": "VENETH",
+      "type": "BUY",
+      "quantity": "3",
+      "price": "0.0058",
+      "total": "0.01740000",
+      "closed": "2018-06-14 18:59:53"
+    },
+    {
+      "exchange": "VENETH",
+      "type": "BUY",
+      "quantity": "28",
+      "price": "0.0057912",
+      "total": "0.16215360",
+      "closed": "2018-06-14 19:06:10"
+    },
+    {
+      "exchange": "VENETH",
+      "type": "BUY",
+      "quantity": "21",
+      "price": "0.0057427",
+      "total": "0.12059670",
+      "closed": "2018-06-14 21:00:29"
+    },
+    {
+      "exchange": "VENETH",
+      "type": "BUY",
+      "quantity": "14",
+      "price": "0.0057",
+      "total": "0.07980000",
+      "closed": "2018-06-24 02:10:52"
+    },
+    {
+      "exchange": "VENETH",
+      "type": "BUY",
+      "quantity": "20",
+      "price": "0.0052",
+      "total": "0.10400000",
+      "closed": "2018-06-24 15:19:50"
+    }
+  ],
+  "LSK|ETH": [
+    {
+      "exchange": "LSKETH",
+      "type": "BUY",
+      "quantity": "5.1",
+      "price": "0.0118",
+      "total": "0.06018000",
+      "closed": "2018-06-21 00:56:11"
+    },
+    {
+      "exchange": "LSKETH",
+      "type": "BUY",
+      "quantity": "5",
+      "price": "0.014",
+      "total": "0.07000000",
+      "closed": "2018-10-13 16:14:27"
+    }
+  ],
+  "XRP|ETH": [
+    {
+      "exchange": "XRPETH",
+      "type": "SELL",
+      "quantity": "132",
+      "price": "0.00300999",
+      "total": "0.39731868",
+      "closed": "2018-09-21 14:52:17"
+    },
+    {
+      "exchange": "XRPETH",
+      "type": "BUY",
+      "quantity": "9",
+      "price": "0.003267",
+      "total": "0.02940300",
+      "closed": "2018-09-21 14:55:43"
+    },
+    {
+      "exchange": "XRPETH",
+      "type": "BUY",
+      "quantity": "91",
+      "price": "0.00326699",
+      "total": "0.29729609",
+      "closed": "2018-09-21 14:55:43"
+    }
+  ],
+  "VET|ETH": [
+    {
+      "exchange": "VETETH",
+      "type": "BUY",
+      "quantity": "1000",
+      "price": "0.000058",
+      "total": "0.05800000",
+      "closed": "2018-10-11 22:17:54"
+    }
+  ]
+}
